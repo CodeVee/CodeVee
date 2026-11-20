@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
+<a href="https://certdirectory.io/profile/victor-onyebuchi?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/victor-onyebuchi.svg?style=card&theme=dark">
+    <img alt="Victor Onyebuchi on CertDirectory" src="https://certdirectory.io/badge/victor-onyebuchi.svg?style=card">
+  </picture>
+</a>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codevee&label=Profile%20views&color=0e75b6&style=flat" alt="codevee" /> </p>
